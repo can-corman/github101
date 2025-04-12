@@ -1,2 +1,2 @@
-#First line
+#First line of the code
 print("Hello world!")
